@@ -20,9 +20,9 @@ Adding the ``date`` class to an ``input-append`` or ``input-prepend`` bootstrap 
 
 .. code-block:: html
 
-    <div class="input-append date">
+    <div class="input-group date">
         <input value="12-02-2012">
-        <span class="add-on"><i class="icon-th"></i></span>
+        <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
     </div>
 
 
